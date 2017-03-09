@@ -1,6 +1,0 @@
-E:\01开发\My_CSharp_Pro_Demo\deadlock\deadlock\bin\Debug\deadlock.exe.config
-E:\01开发\My_CSharp_Pro_Demo\deadlock\deadlock\bin\Debug\deadlock.exe
-E:\01开发\My_CSharp_Pro_Demo\deadlock\deadlock\bin\Debug\deadlock.pdb
-E:\01开发\My_CSharp_Pro_Demo\deadlock\deadlock\obj\Debug\deadlock.csprojResolveAssemblyReference.cache
-E:\01开发\My_CSharp_Pro_Demo\deadlock\deadlock\obj\Debug\deadlock.exe
-E:\01开发\My_CSharp_Pro_Demo\deadlock\deadlock\obj\Debug\deadlock.pdb
